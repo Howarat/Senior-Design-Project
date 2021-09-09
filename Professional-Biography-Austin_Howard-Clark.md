@@ -51,6 +51,7 @@ nguyens7@mail.uc.edu
 
 Web Developer
 Full Time: Spring 2019, Fall 2019, Summer 2020, Summer 2021
+
 Part Time: Present
 * Worked with SQL, Java, Javascript, JQuery, JSF
 * Worked both in person and remote
