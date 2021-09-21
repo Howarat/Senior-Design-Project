@@ -7,7 +7,8 @@
 * nguyens7@mail.uc.edu
 
 ### Faculty Advisor:
-* TBD
+* Nitin
+* nitinfu@ucmail.uc.edu
 
 ### Project Topic Area:
 * Blockchain Mining Pool Data Analysis Web Application
