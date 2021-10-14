@@ -14,6 +14,3 @@ harm to the possible profits of the mining pool. There is a possibility that the
 to what they publicly display for instance, causing them to lose profits as miners find it out. 
 There could also be a possibility that they don’t want to publicly display API information that is easy for others to see and decide that 
 their pool is not as good as another.
-    
-Time: Time constraints with learning and writing code    
-There could be possible time constraints due to having to put in time to learn. Alongside learning these new technologies, we would also have to finish both front end and back end setup before the time of the convention.
