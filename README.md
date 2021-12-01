@@ -9,7 +9,7 @@ Advisor Professor Nitin
 [Design Diagrams](https://github.com/Howarat/Senior-Design-Project/blob/main/Design%20Diagrams/DesignDiagram.pdf)    
 
 ## Project Tasks and Timeline    
-[Task List](https://github.com/Howarat/Senior-Design-Project/blob/main/Tasklist.md)
+[Task List](https://github.com/Howarat/Senior-Design-Project/blob/main/Tasklist.md)    
 [Timeline](https://github.com/Howarat/Senior-Design-Project/blob/main/Timeline.pdf)    
 [Effort Matrix](https://github.com/Howarat/Senior-Design-Project/blob/main/EffortMatrix.pdf)    
 
