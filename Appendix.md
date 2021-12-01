@@ -12,7 +12,7 @@ Figured out what type of information we wanted to grab and hold onto
 Started research on connecting to Ethermine and Nanopool APIs    
 Continued Research on connecting to the APIs    
 Database was designed to hold difficulty, hashrate, and blocktime    
-Started work on backend    
+Started research and work on backend    
 
 
 ## Raspberri Pi    
