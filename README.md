@@ -29,4 +29,4 @@ Advisor Professor Nitin
 [Budget]    
 
 ## Appendix    
-[Appendix]
+[Appendix](https://github.com/Howarat/Senior-Design-Project/blob/main/Appendix.md)
