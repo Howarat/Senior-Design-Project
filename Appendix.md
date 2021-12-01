@@ -7,4 +7,7 @@
 
     
 ## Meetings    
-Meetings are held online through discord
+Meetings are held online through discord    
+
+## Raspberri Pi    
+![alt text](https://github.com/Howarat/Senior-Design-Project/blob/main/Raspberry%20Pi.jpg)
