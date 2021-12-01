@@ -6,7 +6,7 @@
 * https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/
 
     
-## Meetings    
+## Meeting Notes    
 Meetings are held online through discord    
 Figured out what type of information we wanted to grab and hold onto    
 Started research on connecting to Ethermine and Nanopool APIs    
