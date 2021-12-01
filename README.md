@@ -26,7 +26,7 @@ Advisor Professor Nitin
 [Steven Professional Biography](https://github.com/Howarat/Senior-Design-Project/blob/main/Professional-Biography-Steven-Nguyen.md)    
 
 ## Budget
-[Budget]    
+[Budget](https://github.com/Howarat/Senior-Design-Project/blob/main/Budget.md)    
 
 ## Appendix    
 [Appendix](https://github.com/Howarat/Senior-Design-Project/blob/main/Appendix.md)
