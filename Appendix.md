@@ -9,7 +9,8 @@
 ## Meeting Notes    
 Meetings are held online through discord    
 Figured out what type of information we wanted to grab and hold onto    
-Started research on connecting to Ethermine and Nanopool APIs    
+Started research on connecting to Ethermine and Nanopool APIs   
+Recieved and setup Raspberry Pi    
 Continued Research on connecting to the APIs    
 Database was designed to hold difficulty, hashrate, and blocktime    
 Started research and work on backend    
