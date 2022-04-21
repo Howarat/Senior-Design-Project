@@ -14,6 +14,7 @@ Advisor Professor Nitin
 [Task List](https://github.com/Howarat/Senior-Design-Project/blob/main/Tasklist.md)    
 [Timeline](https://github.com/Howarat/Senior-Design-Project/blob/main/Timeline.pdf)    
 [Effort Matrix](https://github.com/Howarat/Senior-Design-Project/blob/main/EffortMatrix.pdf)    
+[Test Plan](https://github.com/Howarat/Senior-Design-Project/blob/main/Test%20Plan.pdf)
 
 ## PPT Slideshow    
 [Slides](https://docs.google.com/presentation/d/1wwn7idlGqVy3K3MOnffOkdKw0-vaAygg8YtdbmtXDr8/edit?usp=sharing)    
