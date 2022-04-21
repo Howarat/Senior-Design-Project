@@ -19,6 +19,9 @@ Advisor Professor Nitin
 ## PPT Slideshow    
 [Slides](https://docs.google.com/presentation/d/1wwn7idlGqVy3K3MOnffOkdKw0-vaAygg8YtdbmtXDr8/edit?usp=sharing)    
     
+## User Manual    
+[User Manual](https://github.com/Howarat/Senior-Design-Project/blob/main/User%20Manual.pdf)
+    
 ## EXPO Poster    
 [Expo Poster](https://github.com/Howarat/Senior-Design-Project/blob/main/poster.pdf)
 
