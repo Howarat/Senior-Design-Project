@@ -14,6 +14,13 @@ Recieved and setup Raspberry Pi
 Continued Research on connecting to the APIs    
 Database was designed to hold difficulty, hashrate, and blocktime    
 Started research and work on backend    
+Started developemnt on the API backend using NodeJS    
+Setup and transfered database to MongoDB Atlas Cloud    
+Setup RaspberryPi Web Server    
+Started developement of front end    
+Started connecting front end and backend    
+Set up connections for connecting to webserver from outside local environment    
+Started working on Expo presentations    
 
 
 ## Raspberri Pi    
