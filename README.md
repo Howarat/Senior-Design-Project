@@ -16,7 +16,6 @@ Advisor Professor Nitin
 
 ## PPT Slideshow    
 [Slides](https://docs.google.com/presentation/d/1wwn7idlGqVy3K3MOnffOkdKw0-vaAygg8YtdbmtXDr8/edit?usp=sharing)    
-[Video](https://vimeo.com/639782554)    
 
 ## Self-Assessment Essays    
 [Austin SA Essay](https://github.com/Howarat/Senior-Design-Project/blob/main/Capstone-Assessment-Austin.md)    
