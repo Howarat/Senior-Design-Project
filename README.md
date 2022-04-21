@@ -32,7 +32,10 @@ Advisor Professor Nitin
 
 ## Professional Biographies    
 [Austin Professional Biography](https://github.com/Howarat/Senior-Design-Project/blob/main/Professional-Biography-Austin_Howard-Clark.md)    
-[Steven Professional Biography](https://github.com/Howarat/Senior-Design-Project/blob/main/Professional-Biography-Steven-Nguyen.md)    
+[Steven Professional Biography](https://github.com/Howarat/Senior-Design-Project/blob/main/Professional-Biography-Steven-Nguyen.md)   
+    
+## Hours Summaries    
+[Steven Hours  Summary](https://github.com/Howarat/Senior-Design-Project/blob/main/Hours-Summary-Steven.md)
 
 ## Budget
 [Budget](https://github.com/Howarat/Senior-Design-Project/blob/main/Budget.md)    
