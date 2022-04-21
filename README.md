@@ -8,6 +8,7 @@ Advisor Professor Nitin
 [Abstract](https://github.com/Howarat/Senior-Design-Project/blob/main/Appendix.md)
 [User Stories](https://github.com/Howarat/Senior-Design-Project/blob/main/User_Stories.md)    
 [Design Diagrams](https://github.com/Howarat/Senior-Design-Project/blob/main/Design%20Diagrams/DesignDiagram.pdf)    
+[User Interface Flow](https://github.com/Howarat/Senior-Design-Project/blob/main/UserFlow.PNG)    
 
 ## Project Tasks and Timeline    
 [Task List](https://github.com/Howarat/Senior-Design-Project/blob/main/Tasklist.md)    
