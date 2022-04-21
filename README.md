@@ -18,10 +18,14 @@ Advisor Professor Nitin
 
 ## PPT Slideshow    
 [Slides](https://docs.google.com/presentation/d/1wwn7idlGqVy3K3MOnffOkdKw0-vaAygg8YtdbmtXDr8/edit?usp=sharing)    
+    
+## EXPO Poster    
+[Expo Poster](https://github.com/Howarat/Senior-Design-Project/blob/main/poster.pdf)
 
 ## Self-Assessment Essays    
 [Austin SA Essay](https://github.com/Howarat/Senior-Design-Project/blob/main/Capstone-Assessment-Austin.md)    
-[Steven SA Essay](https://github.com/Howarat/Senior-Design-Project/blob/main/Capstone-Assessment-Steven.md)    
+[Steven SA Fall Essay](https://github.com/Howarat/Senior-Design-Project/blob/main/Capstone-Assessment-Steven.md)   
+[Steven SA Spring Essay](https://github.com/Howarat/Senior-Design-Project/blob/main/Capstone-Assessment-Spring-Steven.md)
 
 ## Professional Biographies    
 [Austin Professional Biography](https://github.com/Howarat/Senior-Design-Project/blob/main/Professional-Biography-Austin_Howard-Clark.md)    
